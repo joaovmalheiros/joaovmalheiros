@@ -1,5 +1,5 @@
-- 👋 Olá, Sou o @joaovmalheiros
-- 👀 Sou estudante de análise e desenvolvimento de sistemas e estou interessado em uma oportunidade em desenvolvimento de software. 
+- 👋 Olá, Sou o @joaovmalheiros!
+- 👀 Sou estudante de análise e desenvolvimento de sistemas e estou interessado em uma oportunidade na área de desenvolvimento de software. 
 - 🌱 Atualmente estou aprendendo o framework .NET, mas tenho conhecimentos em outras linguagens como Python, C e C++.
 
 <div align="center">
