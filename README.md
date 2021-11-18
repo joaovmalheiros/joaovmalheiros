@@ -1,6 +1,12 @@
-- 👋 Olá, Sou o @joaovmalheiros!
-- 👀 Sou estudante de análise e desenvolvimento de sistemas e estou interessado em uma oportunidade na área de desenvolvimento de software. 
-- 🌱 Atualmente estou aprendendo o framework .NET, mas tenho conhecimentos em outras linguagens como Python, C e C++.
+# 👋 Olá, eu sou o @joaovmalheiros!
+---
+## Sobre mim
+- Estou no 4º semstre de Análise e Desenvolvimento de sistemas 
+
+- 🎯 Interesse: C++, C, Python, Java e C# 
+
+- Atualmente estou aprendendo o framework .NET
+
 
 <div align="center">
   <a href="https://github.com/joaovmalheiros">
