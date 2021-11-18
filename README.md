@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou o @joaovmalheiros!
 ---
 ## Sobre mim
-- Estou no 4º semstre de Análise e Desenvolvimento de sistemas 
+- Estou no 4º semestre de Análise e Desenvolvimento de sistemas 🧑‍💻
 
-- 🎯 Interesse: C++, C, Python, Java e C# 
+- Interesse: C++, C, Python, Java e C# 🎯 
 
-- Atualmente estou aprendendo o framework .NET
+- Atualmente estou aprendendo o framework .NET 👨‍💻 
 
 
 <div align="center">
